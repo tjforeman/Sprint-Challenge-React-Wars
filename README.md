@@ -26,11 +26,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+ReactJS is a Library of javascript that attempt to make wepages and applications more responsive and easier to navigate by grouping them together with components and classes.
+
 - [ ] What does it mean to _think_ in react?
+
+To think in react is to think of your page in smaller components, and to think how you can change the state to match the component the user will be interacting with at that specific moment. 
 
 - [ ] Describe state.
 
+state is the mutable data that the user is interacting with, it's held within the specific component and can be changed.
+
 - [ ] Describe props.
+
+props is short for properties and it's the way information found within objects is passed down to different components. that way they can be rendered. 
 
 ## Project Set Up
 
