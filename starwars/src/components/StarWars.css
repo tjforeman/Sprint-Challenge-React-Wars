@@ -1,0 +1,23 @@
+.list-container{
+    display:flex;
+    flex-direction:column;
+}
+.char-container{
+    width:30%;
+    margin-left:35%;
+    border:1px solid black;
+    margin-bottom:40px;
+    background-color:lightgray;
+    border-radius:8px;
+}
+.name{
+    color:tan;
+    text-decoration:underline;
+    
+}
+.info{
+    color:gray;
+    font-family:Georgia;
+    margin-bottom:30px;
+    
+}

@@ -3,7 +3,9 @@ import Char from './char'
 const List = props =>{
     return(
         <div ClassName='list-container'>
-        <Char />
+        {props.chars.map(char =>(
+    <Char key={char.edited} char={char} />
+    ))}
         </div>
     )
 }
